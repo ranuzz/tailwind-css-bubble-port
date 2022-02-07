@@ -5,6 +5,8 @@ summary: 'Learning tailwind by porting vanilla CSS codepens'
 tags: ["webdev", "css", "tailwind"]
 ---
 
+[https://makeall.dev/notepad/porting-css-sphere-to-tailwind/](https://makeall.dev/notepad/porting-css-sphere-to-tailwind/)
+
 I started exploring Tailwind CSS and decided to port one of my favorite CSS codepen in it. I wanted to see what the learning curve looks like and how tailwind actually helps in code management and future maintenance.
 
 The Code repo and stackblitz links:
